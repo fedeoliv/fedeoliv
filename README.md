@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Fernando, a Software Architect/Engineer, currently working on the Customer Success division at Microsoft. On a daily basis, typically I work side by side with engineers from Microsoft customers as a squad to help them tackle their toughest technical challenges in the cloud by working with the programming languages they use, with the open source frameworks they use, on the operating systems they use.
+
 <!--
 **fedeoliv/FEDEOLIV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
