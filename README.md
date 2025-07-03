@@ -1,18 +1,11 @@
-### Hi there 👋
+### Hi there! 👋
 
-I'm Fernando, a Software Architect/Engineer, currently working on the Customer Success division at Microsoft. On a daily basis, typically I work side by side with engineers from Microsoft customers as a squad to help them tackle their toughest technical challenges in the cloud by working with the programming languages they use, with the open source frameworks they use, on the operating systems they use.
+I'm a Software Architect and Engineer at Microsoft, currently collaborating with customers to design production-ready AI solutions that balance innovation with the impact of unavoidable tradeoffs.
 
-<!--
-**fedeoliv/FEDEOLIV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Some of my recent OSS contributions
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Co-author of the [Multi-Agent Architecture Guide](https://github.com/microsoft/multi-agent-reference-architecture)
+- `langchain`: [Async Microsoft Entra ID token provider support for Azure OpenAI](https://github.com/langchain-ai/langchain/pull/27488)
+- `openai-python`: [Async Microsoft Entra ID token provider auth snippet](https://github.com/openai/openai-python/pull/1787)
+- `terraform-provider-azurerm`: [User-assigned managed identity support for Logic Apps Standard](https://github.com/hashicorp/terraform-provider-azurerm/pull/18109)
+- `terraform-provider-azurerm`: [Provider for Azure Red Hat OpenShift](https://github.com/hashicorp/terraform-provider-azurerm/pull/24375)
