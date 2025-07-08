@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm a Software Architect and Engineer at Microsoft, currently collaborating with customers to design production-ready AI solutions that balance innovation with the impact of unavoidable tradeoffs.
+I'm a Software Architect and Engineer at Microsoft, currently collaborating with customers to design and implement production-ready AI solutions.
 
 ### Some of my recent OSS contributions
 
